@@ -1,0 +1,10 @@
+list in java
+List<> list = new ListClass<>();
+list is an interface
+classes:
+1. ArrayList - faster to search (not thread safe)
+2. LinkedList - insertion order while save and read
+3. Vector - thread safe( slow in search)
+
+List<Data type Class> list = new ArrayList<>();
+ArrayList<Data type class> arrayList = new ArrayList<>();
